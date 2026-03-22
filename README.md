@@ -37,6 +37,6 @@ POST /api/bookings
 
 ![complete](screenshots/completed.png)
 
-## Developer
+## Build by
 
 Venkateswaran G
